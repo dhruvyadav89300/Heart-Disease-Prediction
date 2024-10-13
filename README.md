@@ -1,4 +1,4 @@
-# Hear-Disease-Prediction
+# Heart-Disease-Prediction
 This project aims to predict the presence of heart disease in patients based on various health attributes using machine learning algorithms. The dataset used for this project is obtained from Kaggle and includes features like age, sex, chest pain type, resting blood pressure, cholesterol levels, and more.
 
 ## Dataset
